@@ -1,0 +1,4 @@
+MDR;MP;100;Bank Mandiri; offline
+BTN;MP;312;Bank BTN; offline
+BNI;MP;441;Bank BNI; offline
+BCA;MP;23;Bank BCA; offline
