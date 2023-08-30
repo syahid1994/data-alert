@@ -1,4 +1,4 @@
 # data-alert
-mvn compile __
-mvn package __
+mvn compile <br/>
+mvn package <br/>
 java -jar target/data-alert-1.0-SNAPSHOT.jar
